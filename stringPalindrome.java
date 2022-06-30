@@ -1,7 +1,7 @@
 class stringPalindrome{
   public static void main(String[] args) {
 
-    String str = "Radar", reverseStr = "";
+    String str = "Malayalam", reverseStr = "";
     
     int strLength = str.length();
 
